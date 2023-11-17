@@ -50,7 +50,7 @@ export const projects = [
   {
     id: nanoid(),
     img: 'https://images.pexels.com/photos/326503/pexels-photo-326503.jpeg?auto=compress&cs=tinysrgb&w=800',
-    url: 'https://chandru-meal.vercel.app',
+    url: 'https://meal-mauve-omega.vercel.app',
     github: 'https://github.com/chandru90/newmernrecipe/tree/master',
     title: 'Food Recipe',
     text: 'A MERN stack food recipe app with JWT authentication allows users to explore, create, and save recipes using REST API.  The app provides a platform for users to browse a diverse collection of recipes, add their own recipes, and engage with the community. Each recipe includes details such as ingredients with step-by-step instructions.Users can personalize their experience by saving favorite recipes and contributing to the recipe database.',  
